@@ -1,6 +1,6 @@
-- 👋 Bonjour, je suis @Azaiis, de son vrai nom Clémentine Leroy
-- 👀 J'aime beaucoup la programmation en Java, et commence à bien m'adapter au javascript
+- 👋 Bonjour, je suis @Azaiis, un peu conne mais on même bien
 - 🌱 J'ai fuit mon Master d'informatique :]
+- 👀 J'apprend lentement à ré-apprendre et apprécier la prog ! 
 
 <!---
 Azaiis/Azaiis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
