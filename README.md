@@ -1,4 +1,4 @@
-- 👋 Bonjour, je suis @Azaiis, un peu conne mais on même bien
+- 👋 Bonjour, je suis @Azaiis, un peu conne mais on m'aime bien
 - 🌱 J'ai fuit mon Master d'informatique :]
 - 👀 J'apprend lentement à ré-apprendre et apprécier la prog ! 
 
